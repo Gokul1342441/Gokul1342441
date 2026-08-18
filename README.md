@@ -39,7 +39,7 @@ Architecting production healthcare and enterprise systems — LangGraph agents a
 - LLM safety guardrails — semantic caching, hallucination checks, PII filtering (~30% fewer duplicate LLM calls)
 - AWS + Docker + GitHub Actions CI/CD (~2 hours → ~15 minutes per release)
 
-**iamneo Edutech — Associate Software Engineer** · Feb 2023 — Feb 2025
+**[iamneo](https://iamneo.ai/) — Associate Software Engineer** · Feb 2023 — Feb 2025
 
 Built full-stack educational platforms serving thousands of concurrent users — infrastructure migrations, serverless backends, and exam-platform security.
 
@@ -73,11 +73,8 @@ Built full-stack educational platforms serving thousands of concurrent users —
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul1342441&show_icons=true&locale=en&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gokul1342441&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul1342441&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul1342441&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=gokul1342441&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
