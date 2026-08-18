@@ -69,12 +69,3 @@ Built full-stack educational platforms serving thousands of concurrent users —
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="36" height="36"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="36" height="36"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=gokul1342441&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gokul1342441&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
